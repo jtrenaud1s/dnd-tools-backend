@@ -1,13 +1,13 @@
-package io.subspacedev.springbootrestboilerplate;
+package io.subspacedev.dndtools;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBootRestBoilerplateApplication {
+public class DndToolsApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringBootRestBoilerplateApplication.class, args);
+        SpringApplication.run(DndToolsApplication.class, args);
     }
 
 }
